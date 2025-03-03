@@ -1,0 +1,1 @@
+RUSTFLAGS="-C target-cpu=native" cargo run --bin bench --release -- --out-fn ./results/plot_data.json --nsamples 5 --from 16 --to 16384 --step 128

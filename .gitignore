@@ -1,0 +1,4 @@
+/target
+/results
+callgrind.out.*
+factorizations_f2.npz
